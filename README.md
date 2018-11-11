@@ -18,10 +18,16 @@ The dataset is divided into five training batches and one test batch, each with 
 
 The dataset can be downloaded from here : [CIFAR10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-```Note : The dataset can be downloaded by running the cells in the notebook also ```
+```Note : The dataset can be downloaded by running the cells in the notebook too ```
 
 # Requirements
 
-1. Pytorch
+1. PyTorch
 2. Torchvision
 3. Python
+
+```utils.py has been taken from online resources.It serves the purpose of visualizing the performance of the model over time```
+
+```I recommend to make use of GPUs or Cloud Platforms to train the model```
+
+```The code for utilizing GPU is also included```
