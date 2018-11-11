@@ -26,7 +26,7 @@ The dataset can be downloaded from here : [CIFAR10 Dataset](https://www.cs.toron
 2. Torchvision
 3. Python
 
-```utils.py has been taken from online resources.It serves the purpose of visualizing the performance of the model over time```
+```utils.py has been taken from online resources.It serves the purpose of visualizing the performance of the model```
 
 ```I recommend to make use of GPUs or Cloud Platforms to train the model```
 
